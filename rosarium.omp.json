@@ -11,7 +11,7 @@
           "type": "text"
         },
         {
-          "foreground": "#c4a7e7",
+          "foreground": "#e6b475",
           "properties": { "style": "folder" },
           "style": "plain",
           "template": "  ~/{{ .Path }}",
@@ -28,7 +28,7 @@
           "type": "git"
         },
         {
-          "foreground": "#191724",
+          "foreground": "#e0def4",
           "style": "plain",
           "template": " $",
           "type": "text"
